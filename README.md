@@ -31,7 +31,7 @@ To run this code following are the steps to be done:
 3. After that the QR will be generated on the screen.
 4. Scan the QR code on Expo Go App on Android device and Camera app on the IOS device.   
  
- -[@Prakshal2412](https://github.com/Prakshal2412)
+ -[@Prakshal2412](https://github.com/Prakshal2412).
 
 
 ## Environment Variables
